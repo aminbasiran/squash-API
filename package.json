@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server db.json",
+    "start": "node index.js",
     "build": "npm install",
     "deploy": "npm run build && npm run start"
   },
@@ -12,7 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json-server": "^1.0.0-alpha.23",
-    "lodash": "^4.17.21"
+    "json-server": "^0.17.4"
   }
 }
