@@ -8,7 +8,6 @@
             "phone" : "60196642107",
             "rating" : 4,
             "social" : {
-                "instagram": "",
                 "facebook" : "supremesquashclub"
             },
             "rates" : {
@@ -189,6 +188,53 @@
                 "postcode" : "62200",
                 "district" : "Putrajaya",
                 "state" : "Wilayah Persekutuan Putrajaya"
+            }
+        },
+        {
+            "id" : 12,
+            "name" : "Royal Lake Club",
+            "web": "https://royallakeclub.org.my",
+            "phone": {
+                "main" : "0326987878"
+            },
+            "rating" : 4.2,
+            "social" : {
+                "facebook" : "royallakeclub"
+            },
+            "rates" : {
+                "normal" : null
+            },
+            "address" : {
+                "number" : "",
+                "line1" : "Jalan Cenderamulia",
+                "line2" : "Tasik Perdana",
+                "postcode" : "50480",
+                "district" : "",
+                "state" : "Kuala Lumpur"
+            }
+        },
+        {
+            "id" : 13,
+            "name" : "Royal Lake Club",
+            "web": "www.berjayaclubs.com",
+            "phone": {
+                "main" : "0320931222",
+                "other" : "0320941222"
+            },
+            "rating" : 4,
+            "social" : {
+                "facebook" : "royallakeclub"
+            },
+            "rates" : {
+                "normal" : null
+            },
+            "address" : {
+                "number" : "",
+                "line1" : "Jalan Bukit Kiara",
+                "line2" : "Off Jalan Damansara",
+                "postcode" : "60000",
+                "district" : "",
+                "state" : "Kuala Lumpur"
             }
         }
     ]
