@@ -1,0 +1,195 @@
+{
+    "courts" : [
+
+        {
+            "id" : 1,
+            "name" : "Bukit Bintang Squash Excellence Center",
+            "web": "https://link.courtsite.my/BukitBintangSquashEC",
+            "phone" : "60196642107",
+            "rating" : 4,
+            "social" : {
+                "instagram": "",
+                "facebook" : "supremesquashclub"
+            },
+            "rates" : {
+                "glass" : 12,
+                "normal" : 10
+            },
+            "address" : {
+                "number" : "",
+                "line1" : "Bangunan CBMPTB, SMK (L) Bukit Bintang",
+                "line2" : "Jln Utara, Pjs 52",
+                "postcode" : "46200",
+                "district" : "Petaling Jaya",
+                "state" : "Selangor"
+            }
+            
+        },
+        {
+            "id" : 2,
+            "name" : "National Squash Centre",
+            "web": "",
+            "phone": "0389969560",
+            "rating" : 4.3,
+            "address" : {
+                "number" : "Level 1",
+                "line1" : "National Stadium Bukit Jalil",
+                "line2" : "Merdeka Stadium Corporation",
+                "postcode" : "57700",
+                "district" : "Sri Petaling",
+                "state" : "Kuala Lumpur"
+            } 
+        },
+        {
+            "id" : 3,
+            "name" : "The Lakeview Club",
+            "web": "",
+            "phone": "0356339101",
+            "rating" : 3.8,
+            "address" : {
+                "number" : "3606",
+                "line1" : "Jalan SS 12/1",
+                "line2" : "Ss 12",
+                "postcode" : "47500",
+                "district" : "Subang Jaya",
+                "state" : "Selangor"
+            }
+        },
+        {
+            "id" : 4,
+            "name" : "Kompleks 3K Subang Jaya",
+            "web": "",
+            "phone": "0356210645",
+            "rating" : 4,
+            "address" : {
+                "number" : "",
+                "line1" : "Jalan SS 13/1a",
+                "line2" : "Ss 13",
+                "postcode" : "47500",
+                "district" : "Subang Jaya",
+                "state" : "Selangor"
+            }
+        },
+        {
+            "id" : 5,
+            "name" : "Duta Squash Court, National Sports Complex",
+            "web": "http://www.stadium.gov.my/",
+            "phone": "0362065022",
+            "rating" : 4.4,
+            "address" : {
+                "number" : "",
+                "line1" : "Bukit Tunku",
+                "line2" : "",
+                "postcode" : "50480",
+                "district" : "",
+                "state" : "Kuala Lumpur"
+            }
+        },
+        {
+            "id" : 6,
+            "name" : "Kompleks Sukan Wangsa Maju Seksyen 5",
+            "web": "",
+            "phone": "0178836678",
+            "rating" : null,
+            "address" : {
+                "number" : "",
+                "line1" : "Jalan 1/27A",
+                "line2" : "Seksyen 5",
+                "postcode" : "53300",
+                "district" : "Wangsa Maju",
+                "state" : "Kuala Lumpur"
+            }
+        },
+        {
+            "id" : 7,
+            "name" : "Kompleks Sukan Taman Tasik Titiwangsa",
+            "web": "",
+            "phone": "0340252063",
+            "rating" : null,
+            "address" : {
+                "number" : "",
+                "line1" : "Kompleks Sukan Taman Tasik Titiwangsa",
+                "line2" : "Taman Tasik Titiwangsa, Jalan Tembeling",
+                "postcode" : "53200",
+                "district" : "Titiwangsa",
+                "state" : "Kuala Lumpur"
+            }
+        },
+        {
+            "id" : 8,
+            "name" : "Kompleks Sukan Bangsar",
+            "web": "",
+            "phone": "0322841150",
+            "rating" : null,
+            "address" : {
+                "number" : "",
+                "line1" : "Jalan Terasik 3",
+                "line2" : "Bangsar Baru",
+                "postcode" : "59000",
+                "district" : "Bangsar",
+                "state" : "Kuala Lumpur"
+            }
+        },
+        {
+            "id" : 9,
+            "name" : "PJ Palms Sports Centre",
+            "web": " www.pjpalms.com",
+            "phone": {
+                "main" : "0379607919",
+                "other" : "0124253600"
+            },
+            "rating" : 4.4,
+            "address" : {
+                "number" : "",
+                "line1" : "No 1 Lorong Sultan",
+                "line2" : "",
+                "postcode" : "46200 ",
+                "district" : " Petaling Jaya",
+                "state" : "Selangor"
+            }
+        },
+        {
+            "id" : 10,
+            "name" : "University of Malaya Sports Centre",
+            "web": "sports.um.edu.my",
+            "phone": {
+                "main" : "0379673210",
+                "other" : ""
+            },
+            "rating" : 4.4,
+            "address" : {
+                "number" : "",
+                "line1" : "University Malaya",
+                "line2" : "Jalan Universiti",
+                "postcode" : "50603",
+                "district" : "",
+                "state" : "Kuala Lumpur"
+            }
+        },
+        {
+            "id" : 11,
+            "name" : "Marina Putrajaya",
+            "web": "https://marinaputrajaya.com",
+            "phone": {
+                "main" : "0388810648",
+                "other" : ""
+            },
+            "rating" : 4.2,
+            "social" : {
+                "instagram": "marinaputrajaya.mpsb",
+                "facebook" : "marinaputrajaya.mpsb"
+            },
+            "rates" : {
+                "normal" : 15
+            },
+            "address" : {
+                "number" : "",
+                "line1" : "1, Jalan P5/5",
+                "line2" : "Presint 5",
+                "postcode" : "62200",
+                "district" : "Putrajaya",
+                "state" : "Wilayah Persekutuan Putrajaya"
+            }
+        }
+    ]
+}
