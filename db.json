@@ -3,7 +3,8 @@
         {
             "id": "1",
             "name": "National Squash Centre",
-            "web": "",
+            "web": null,
+            "images" : ["https://www.google.com.my/maps/place/National+Squash+Centre/@3.0524914,101.6943841,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPbb9bv1qlGdVT16cQf42vHzcY5GqNER56lErKo!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPbb9bv1qlGdVT16cQf42vHzcY5GqNER56lErKo%3Dw397-h298-k-no!7i4096!8i3072!4m19!1m9!3m8!1s0x31cc4a96f8a38bd5:0x4c0cd790378560dd!2sNational+Squash+Centre!8m2!3d3.0524914!4d101.6943841!9m1!1b1!16s%2Fg%2F1pzt98ld0!3m8!1s0x31cc4a96f8a38bd5:0x4c0cd790378560dd!8m2!3d3.0524914!4d101.6943841!10e5!14m1!1BCgIgAQ!16s%2Fg%2F1pzt98ld0?entry=ttu#"],
             "phone": "0389969560",
             "rating": 4.3,
             "address": {
@@ -19,6 +20,7 @@
             "id": "2",
             "name": "Duta Squash Court, National Sports Complex",
             "web": "http://www.stadium.gov.my/",
+            "images" : ["https://www.google.com.my/maps/place/Squash+Court,+National+Sports+Complex/@3.1694472,101.6723336,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNHr4oXcQNG5Ykp7qYH-tzO08sNSb0aAefxwQO0!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNHr4oXcQNG5Ykp7qYH-tzO08sNSb0aAefxwQO0%3Dw397-h298-k-no!7i4032!8i3024!4m9!3m8!1s0x31cc485d2dd9c065:0x896c4925c0321808!8m2!3d3.1694472!4d101.6723336!10e5!14m1!1BCgIgAQ!16s%2Fg%2F11f24wsq7w?entry=ttu#"],
             "phone": "0362065022",
             "rating": 4.4,
             "address": {
@@ -33,7 +35,8 @@
         {
             "id": "3",
             "name": "Kompleks Sukan Wangsa Maju Seksyen 5",
-            "web": "",
+            "web": null,
+            "images" : [],
             "phone": "0178836678",
             "address": {
                 "number": "",
@@ -47,7 +50,8 @@
         {
             "id": "4",
             "name": "Kompleks Sukan Taman Tasik Titiwangsa",
-            "web": "",
+            "web": null,
+            "images" : [],
             "phone": "0340252063",
             "rating": null,
             "address": {
@@ -62,7 +66,8 @@
         {
             "id": "5",
             "name": "Kompleks Sukan Bangsar",
-            "web": "",
+            "web": null,
+            "images" : [],
             "phone": "0322841150",
             "rating": null,
             "address": {
@@ -78,6 +83,7 @@
             "id": "6",
             "name": "University of Malaya Sports Centre",
             "web": "sports.um.edu.my",
+            "images" : [],
             "phone": {
                 "main": "0379673210",
                 "other": ""
@@ -96,6 +102,7 @@
             "id": "7",
             "name": "Royal Lake Club",
             "web": "https://royallakeclub.org.my",
+            "images" : [],
             "phone": {
                 "main": "0326987878"
             },
@@ -119,6 +126,7 @@
             "id": "8",
             "name": "Royal Lake Club",
             "web": "www.berjayaclubs.com",
+            "images" : [],
             "phone": {
                 "main": "0320931222",
                 "other": "0320941222"
@@ -148,6 +156,7 @@
             "id": "1",
             "name": "Bukit Bintang Squash Excellence Center",
             "web": "https://link.courtsite.my/BukitBintangSquashEC",
+            "images" : [],
             "phone": "60196642107",
             "rating": 4,
             "social": {
@@ -169,7 +178,8 @@
         {
             "id": "2",
             "name": "The Lakeview Club",
-            "web": "",
+            "web": null,
+            "images" : [],
             "phone": "0356339101",
             "rating": 3.8,
             "address": {
@@ -184,7 +194,8 @@
         {
             "id": "3",
             "name": "Kompleks 3K Subang Jaya",
-            "web": "",
+            "web": null,
+            "images" : [],
             "phone": "0356210645",
             "rating": 4,
             "address": {
@@ -200,6 +211,7 @@
             "id": "4",
             "name": "PJ Palms Sports Centre",
             "web": " www.pjpalms.com",
+            "images" : [],
             "phone": {
                 "main": "0379607919",
                 "other": "0124253600"
@@ -220,6 +232,7 @@
             "id": "1",
             "name": "Marina Putrajaya",
             "web": "https://marinaputrajaya.com",
+            "images" : [],
             "phone": {
                 "main": "0388810648",
                 "other": ""
