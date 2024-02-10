@@ -1,258 +1,290 @@
 {
-    "Kuala_Lumpur": [
-        {
-            "id": "1",
-            "name": "National Squash Centre",
-            "web": null,
-            "images" : ["https://www.google.com.my/maps/place/National+Squash+Centre/@3.0524914,101.6943841,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPbb9bv1qlGdVT16cQf42vHzcY5GqNER56lErKo!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPbb9bv1qlGdVT16cQf42vHzcY5GqNER56lErKo%3Dw397-h298-k-no!7i4096!8i3072!4m19!1m9!3m8!1s0x31cc4a96f8a38bd5:0x4c0cd790378560dd!2sNational+Squash+Centre!8m2!3d3.0524914!4d101.6943841!9m1!1b1!16s%2Fg%2F1pzt98ld0!3m8!1s0x31cc4a96f8a38bd5:0x4c0cd790378560dd!8m2!3d3.0524914!4d101.6943841!10e5!14m1!1BCgIgAQ!16s%2Fg%2F1pzt98ld0?entry=ttu#"],
-            "phone": "0389969560",
-            "rating": 4.3,
-            "address": {
-                "number": "Level 1",
-                "line1": "National Stadium Bukit Jalil",
-                "line2": "Merdeka Stadium Corporation",
-                "postcode": "57700",
-                "district": "Sri Petaling",
-                "state": "Kuala Lumpur"
-            }
-        },
-        {
-            "id": "2",
-            "name": "Duta Squash Court, National Sports Complex",
-            "web": "http://www.stadium.gov.my/",
-            "images" : ["https://www.google.com.my/maps/place/Squash+Court,+National+Sports+Complex/@3.1694472,101.6723336,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNHr4oXcQNG5Ykp7qYH-tzO08sNSb0aAefxwQO0!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNHr4oXcQNG5Ykp7qYH-tzO08sNSb0aAefxwQO0%3Dw397-h298-k-no!7i4032!8i3024!4m9!3m8!1s0x31cc485d2dd9c065:0x896c4925c0321808!8m2!3d3.1694472!4d101.6723336!10e5!14m1!1BCgIgAQ!16s%2Fg%2F11f24wsq7w?entry=ttu#"],
-            "phone": "0362065022",
-            "rating": 4.4,
-            "address": {
-                "number": "",
-                "line1": "Bukit Tunku",
-                "line2": "",
-                "postcode": "50480",
-                "district": "",
-                "state": "Kuala Lumpur"
-            }
-        },
-        {
-            "id": "3",
-            "name": "Kompleks Sukan Wangsa Maju Seksyen 5",
-            "web": null,
-            "images" : [],
-            "phone": "0178836678",
-            "address": {
-                "number": "",
-                "line1": "Jalan 1/27A",
-                "line2": "Seksyen 5",
-                "postcode": "53300",
-                "district": "Wangsa Maju",
-                "state": "Kuala Lumpur"
-            }
-        },
-        {
-            "id": "4",
-            "name": "Kompleks Sukan Taman Tasik Titiwangsa",
-            "web": null,
-            "images" : [],
-            "phone": "0340252063",
-            "rating": null,
-            "address": {
-                "number": "",
-                "line1": "Kompleks Sukan Taman Tasik Titiwangsa",
-                "line2": "Taman Tasik Titiwangsa, Jalan Tembeling",
-                "postcode": "53200",
-                "district": "Titiwangsa",
-                "state": "Kuala Lumpur"
-            }
-        },
-        {
-            "id": "5",
-            "name": "Kompleks Sukan Bangsar",
-            "web": null,
-            "images" : [],
-            "phone": "0322841150",
-            "rating": null,
-            "address": {
-                "number": "",
-                "line1": "Jalan Terasik 3",
-                "line2": "Bangsar Baru",
-                "postcode": "59000",
-                "district": "Bangsar",
-                "state": "Kuala Lumpur"
-            }
-        },
-        {
-            "id": "6",
-            "name": "University of Malaya Sports Centre",
-            "web": "sports.um.edu.my",
-            "images" : [],
-            "phone": {
-                "main": "0379673210",
-                "other": ""
-            },
-            "rating": 4.4,
-            "address": {
-                "number": "",
-                "line1": "University Malaya",
-                "line2": "Jalan Universiti",
-                "postcode": "50603",
-                "district": "",
-                "state": "Kuala Lumpur"
-            }
-        },
-        {
-            "id": "7",
-            "name": "Royal Lake Club",
-            "web": "https://royallakeclub.org.my",
-            "images" : [],
-            "phone": {
-                "main": "0326987878"
-            },
-            "rating": 4.2,
-            "social": {
-                "facebook": "royallakeclub"
-            },
-            "rates": {
-                "normal": null
-            },
-            "address": {
-                "number": "",
-                "line1": "Jalan Cenderamulia",
-                "line2": "Tasik Perdana",
-                "postcode": "50480",
-                "district": "",
-                "state": "Kuala Lumpur"
-            }
-        },
-        {
-            "id": "8",
-            "name": "Royal Lake Club",
-            "web": "www.berjayaclubs.com",
-            "images" : [],
-            "phone": {
-                "main": "0320931222",
-                "other": "0320941222"
-            },
-            "rating": 4,
-            "social": {
-                "facebook": "royallakeclub"
-            },
-            "rates": {
-                "normal": null
-            },
-            "address": {
-                "number": "",
-                "line1": "Jalan Bukit Kiara",
-                "line2": "Off Jalan Damansara",
-                "postcode": "60000",
-                "district": "",
-                "state": "Kuala Lumpur"
-            }
-        }
-        
-    ],
+    "squash" : {
 
-    "Selangor": [
-
-        {
-            "id": "1",
-            "name": "Bukit Bintang Squash Excellence Center",
-            "web": "https://link.courtsite.my/BukitBintangSquashEC",
-            "images" : [],
-            "phone": "60196642107",
-            "rating": 4,
-            "social": {
-                "facebook": "supremesquashclub"
+        "courts" : [
+            
+            {
+                "id": 1,
+                "region" : "Kuala Lumpur",
+                "venue" : [
+                    {
+                        "id": "1",
+                        "name": "National Squash Centre",
+                        "web": null,
+                        "images" : ["http://www.natsquash.co.nz/Images/Albums/1/Large/20160501_094452_resized.jpg"],
+                        "phone": {
+                            "main" :  "0389969560"
+                        },
+                        "address": {
+                            "number": "Level 1",
+                            "line1": "National Stadium Bukit Jalil",
+                            "line2": "Merdeka Stadium Corporation",
+                            "postcode": "57700",
+                            "district": "Sri Petaling",
+                            "state": "Kuala Lumpur"
+                        }
+                    },
+                    {
+                        "id": "2",
+                        "name": "Duta Squash Court, National Sports Complex",
+                        "web": "http://www.stadium.gov.my/",
+                        "images" : ["https://i.ytimg.com/vi/N7G_y9xNgvI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDhNHzTK8oE0mqikQFk7zGOydHwZw"],
+                        "phone": {
+                            "main" : "0362065022"
+                        },
+                        "rating": 4.4,
+                        "address": {
+                            "number": "",
+                            "line1": "Bukit Tunku",
+                            "line2": "",
+                            "postcode": "80",
+                            "district": "",
+                            "state": "Kuala Lumpur"
+                        }
+                    },
+                    {
+                        "id": "3",
+                        "name": "Kompleks Sukan Wangsa Maju Seksyen 5",
+                        "web": null,
+                        "images" : ["https://lh3.googleusercontent.com/p/AF1QipPtKeAcMfytjZTNYY1ZDfvbXuIxmSBMMqfTrCHi=s1600-w2436"],
+                        "phone": {
+                            "main" : "0178836678"
+                        },
+                        "address": {
+                            "number": "",
+                            "line1": "Jalan 1/27A",
+                            "line2": "Seksyen 5",
+                            "postcode": "53300",
+                            "district": "Wangsa Maju",
+                            "state": "Kuala Lumpur"
+                        }
+                    },
+                    {
+                        "id": "4",
+                        "name": "Kompleks Sukan Taman Tasik Titiwangsa",
+                        "web": null,
+                        "images" : [],
+                        "phone": {
+                            "main" : "0340252063"
+                        } 
+                        ,
+                        "rating": null,
+                        "address": {
+                            "number": "",
+                            "line1": "Kompleks Sukan Taman Tasik Titiwangsa",
+                            "line2": "Taman Tasik Titiwangsa, Jalan Tembeling",
+                            "postcode": "53200",
+                            "district": "Titiwangsa",
+                            "state": "Kuala Lumpur"
+                        }
+                    },
+                    {
+                        "id": "5",
+                        "name": "Kompleks Sukan Bangsar",
+                        "web": null,
+                        "images" : ["https://ejkt.kpkt.gov.my/eprofil/storage/toilet/nDUp2FTANDASAWAMKOMPLEKSSUKANBANGSAR.jpg"],
+                        "phone": {
+                            "main" : "0322841150"
+                        } ,
+                        "rating": null,
+                        "address": {
+                            "number": "",
+                            "line1": "Jalan Terasik 3",
+                            "line2": "Bangsar Baru",
+                            "postcode": "59000",
+                            "district": "Bangsar",
+                            "state": "Kuala Lumpur"
+                        }
+                    },
+                    {
+                        "id": "6",
+                        "name": "University of Malaya Sports Centre",
+                        "web": "sports.um.edu.my",
+                        "images" : ["https://thehivmap.com/wp-content/uploads/2021/08/PPUM-Petaling-Jaya-Covid-19-FMT-5.jpg"],
+                        "phone": {
+                            "main": "0379673210"
+                        },
+                        "rating": 4.4,
+                        "address": {
+                            "number": "",
+                            "line1": "University Malaya",
+                            "line2": "Jalan Universiti",
+                            "postcode": "50603",
+                            "district": "",
+                            "state": "Kuala Lumpur"
+                        }
+                    },
+                    {
+                        "id": "7",
+                        "name": "Royal Lake Club",
+                        "web": "https://royallakeclub.org.my",
+                        "images" : [],
+                        "phone": {
+                            "main": "0326987878"
+                        },
+                        "rating": 4.2,
+                        "social": {
+                            "facebook": "royallakeclub"
+                        },
+                        "rates": {
+                            "normal": null
+                        },
+                        "address": {
+                            "number": "",
+                            "line1": "Jalan Cenderamulia",
+                            "line2": "Tasik Perdana",
+                            "postcode": "50480",
+                            "district": "",
+                            "state": "Kuala Lumpur"
+                        }
+                    },
+                    {
+                        "id": "8",
+                        "name": "Bukit Kiara Equestrian & Country Resort",
+                        "web": "www.berjayaclubs.com",
+                        "images" : ["https://i.ytimg.com/vi/Y3DBSakmZKY/maxresdefault.jpg"],
+                        "phone": {
+                            "main": "0320931222",
+                            "other": "0320941222"
+                        },
+                        "rating": 4,
+                        "social": {
+                            "facebook": "royallakeclub"
+                        },
+                        "rates": {
+                            "normal": null
+                        },
+                        "address": {
+                            "number": "",
+                            "line1": "Jalan Bukit Kiara",
+                            "line2": "Off Jalan Damansara",
+                            "postcode": "60000",
+                            "district": "",
+                            "state": "Kuala Lumpur"
+                        }
+                    }
+                    
+                ]
             },
-            "rates": {
-                "glass": 12,
-                "normal": 10
+            {
+                "id": 2,
+                "region" : "Selangor",
+                "venue": [
+                
+                        {
+                            "id": "1",
+                            "name": "Bukit Bintang Squash Excellence Center",
+                            "web": "https://link.courtsite.my/BukitBintangSquashEC",
+                            "images" : [],
+                            "phone": {
+                                "main" : "60196642107" 
+                            },
+                            "rating": 4,
+                            "social": {
+                                "facebook": "supremesquashclub"
+                            },
+                            "rates": {
+                                "glass": 12,
+                                "normal": 10
+                            },
+                            "address": {
+                                "number": "",
+                                "line1": "Bangunan CBMPTB, SMK (L) Bukit Bintang",
+                                "line2": "Jln Utara, Pjs 52",
+                                "postcode": "46200",
+                                "district": "Petaling Jaya",
+                                "state": "Selangor"
+                            }
+                        },
+                        {
+                        "id": "2",
+                        "name": "The Lakeview Club",
+                        "web": null,
+                        "images" : [],
+                        "phone": {
+                            "main" : "0356339101"
+                        },
+                        "rating": 3.8,
+                        "address": {
+                            "number": "3606",
+                            "line1": "Jalan SS 12/1",
+                            "line2": "Ss 12",
+                            "postcode": "47500",
+                            "district": "Subang Jaya",
+                            "state": "Selangor"
+                        }
+                    },
+                    {
+                        "id": "3",
+                        "name": "Kompleks 3K Subang Jaya",
+                        "web": null,
+                        "images" : ["https://3.bp.blogspot.com/_aXsW-aSwFWU/SNCLgJfgzEI/AAAAAAAAAAs/KKVzVBfzjog/w1200-h630-p-k-no-nu/DSC02395.JPG"],
+                        "phone": {
+                            "main" : "0356210645"
+                        },
+                        "rating": 4,
+                        "address": {
+                            "number": "",
+                            "line1": "Jalan SS 13/1a",
+                            "line2": "Ss 13",
+                            "postcode": "47500",
+                            "district": "Subang Jaya",
+                            "state": "Selangor"
+                        }
+                    },
+                    {
+                        "id": "4",
+                        "name": "PJ Palms Sports Centre",
+                        "web": " www.pjpalms.com",
+                        "images" : ["https://pjpalms.com/images/squash.jpg"],
+                        "phone": {
+                            "main": "0379607919",
+                            "other": "0124253600"
+                        },
+                        "rating": 4.4,
+                        "address": {
+                            "number": "",
+                            "line1": "No 1 Lorong Sultan",
+                            "line2": "",
+                            "postcode": "46200 ",
+                            "district": " Petaling Jaya",
+                            "state": "Selangor"
+                        }
+                    }
+                ] 
             },
-            "address": {
-                "number": "",
-                "line1": "Bangunan CBMPTB, SMK (L) Bukit Bintang",
-                "line2": "Jln Utara, Pjs 52",
-                "postcode": "46200",
-                "district": "Petaling Jaya",
-                "state": "Selangor"
+            {
+                "id": 3,
+                "region" : "Putrajaya",
+                "venue": [
+                    {
+                        "id": "1",
+                        "name": "Marina Putrajaya",
+                        "web": "https://marinaputrajaya.com",
+                        "images" : [],
+                        "phone": {
+                            "main": "0388810648"
+                        },
+                        "rating": 4.2,
+                        "social": {
+                            "instagram": "marinaputrajaya.mpsb",
+                            "facebook": "marinaputrajaya.mpsb"
+                        },
+                        "rates": {
+                            "normal": 15
+                        },
+                        "address": {
+                            "number": "",
+                            "line1": "1, Jalan P5/5",
+                            "line2": "Presint 5",
+                            "postcode": "62200",
+                            "district": "Putrajaya",
+                            "state": "Putrajaya"
+                        }
+                    }
+                ]
             }
-        },
-        {
-            "id": "2",
-            "name": "The Lakeview Club",
-            "web": null,
-            "images" : [],
-            "phone": "0356339101",
-            "rating": 3.8,
-            "address": {
-                "number": "3606",
-                "line1": "Jalan SS 12/1",
-                "line2": "Ss 12",
-                "postcode": "47500",
-                "district": "Subang Jaya",
-                "state": "Selangor"
-            }
-        },
-        {
-            "id": "3",
-            "name": "Kompleks 3K Subang Jaya",
-            "web": null,
-            "images" : [],
-            "phone": "0356210645",
-            "rating": 4,
-            "address": {
-                "number": "",
-                "line1": "Jalan SS 13/1a",
-                "line2": "Ss 13",
-                "postcode": "47500",
-                "district": "Subang Jaya",
-                "state": "Selangor"
-            }
-        },
-        {
-            "id": "4",
-            "name": "PJ Palms Sports Centre",
-            "web": " www.pjpalms.com",
-            "images" : [],
-            "phone": {
-                "main": "0379607919",
-                "other": "0124253600"
-            },
-            "rating": 4.4,
-            "address": {
-                "number": "",
-                "line1": "No 1 Lorong Sultan",
-                "line2": "",
-                "postcode": "46200 ",
-                "district": " Petaling Jaya",
-                "state": "Selangor"
-            }
-        }
-    ] ,
-    "Putrajaya": [
-        {
-            "id": "1",
-            "name": "Marina Putrajaya",
-            "web": "https://marinaputrajaya.com",
-            "images" : [],
-            "phone": {
-                "main": "0388810648",
-                "other": ""
-            },
-            "rating": 4.2,
-            "social": {
-                "instagram": "marinaputrajaya.mpsb",
-                "facebook": "marinaputrajaya.mpsb"
-            },
-            "rates": {
-                "normal": 15
-            },
-            "address": {
-                "number": "",
-                "line1": "1, Jalan P5/5",
-                "line2": "Presint 5",
-                "postcode": "62200",
-                "district": "Putrajaya",
-                "state": "Putrajaya"
-            }
-        }
-    ]
+        ]
+    }
 }
+
