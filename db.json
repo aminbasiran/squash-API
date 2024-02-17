@@ -12,7 +12,7 @@
                         "name": "National Squash Centre",
                         "web": "",
                         "location" : "https://maps.app.goo.gl/3CByfPch2fwNzPp16",
-                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "images" : [""],
                         "phone": {
                             "main" :  "0389969560"
                         },
@@ -33,7 +33,7 @@
                         "name": "Duta Squash Court, National Sports Complex",
                         "web": "http://www.stadium.gov.my/",
                         "location" : "https://maps.app.goo.gl/yVCMPPvua1X6Chw59",
-                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "images" : [""],
                         "phone": {
                             "main" : "0362065022"
                         },
@@ -54,7 +54,7 @@
                         "name": "Kompleks Sukan Wangsa Maju Seksyen 5",
                         "web": "",
                         "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
-                        "location" : "https://maps.app.goo.gl/3RarHHVc8p95qmuq60",
+                        "location" : "",
                         "phone": {
                             "main" : "0178836678"
                         },"rates": {
@@ -74,7 +74,7 @@
                         "name": "Kompleks Sukan Taman Tasik Titiwangsa",
                         "web": "",
                         "images" : [],
-                        "location" : "https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ",
+                        "location" : "",
                         "phone": {
                             "main" : "0340252063"
                         },"rates": {
@@ -94,7 +94,7 @@
                         "name": "Kompleks Sukan Bangsar",
                         "web": "",
                         "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
-                        "location": "https://maps.app.goo.gl/aFuPJ2NpiSJrZiYw5",
+                        "location": "",
                         "phone": {
                             "main" : "0322841150"
                         },
@@ -114,7 +114,7 @@
                         "id": 6,
                         "name": "University of Malaya Sports Centre",
                         "web": "https://sports.um.edu.my",
-                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "images" : [""],
                         "location" : "https://maps.app.goo.gl/zMR3ZpazKPHPReie6",
                         "phone": {
                             "main": "0379673210"
@@ -135,7 +135,7 @@
                         "id": 7,
                         "name": "Royal Lake Club",
                         "web": "https://royallakeclub.org.my",
-                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "images" : [""],
                         "location": "https://maps.app.goo.gl/Pqhm7pcny7JTDqZ18",
                         "phone": {
                             "main": "0326987878"
@@ -159,7 +159,7 @@
                         "id": 8,
                         "name": "Bukit Kiara Equestrian & Country Resort",
                         "web": "www.berjayaclubs.com",
-                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "images" : [""],
                         "location" : "https://maps.app.goo.gl/Lzgi52YEt45nyEsp6",
                         "phone": {
                             "main": "0320931222",
@@ -192,7 +192,7 @@
                         "id": 1,
                         "name": "Bukit Bintang Squash Excellence Center",
                         "web": "https://link.courtsite.my/BukitBintangSquashEC",
-                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "images" : [""],
                         "location" : "https://maps.app.goo.gl/dxEG9YfEMsoJKbtXA",
                         "phone": {
                             "main" : "60196642107" 
@@ -217,7 +217,7 @@
                         "id": 2,
                         "name": "The Lakeview Club",
                         "web": "",
-                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "images" : [""],
                         "location" : "https://maps.app.goo.gl/7pCgeoe9ZhL5ZDNk8",
                         "phone": {
                             "main" : "0356339101"
@@ -238,7 +238,7 @@
                         "id": 3,
                         "name": "Kompleks 3K Subang Jaya",
                         "web": "",
-                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "images" : [""],
                         "location" : "https://maps.app.goo.gl/fyLUmFJyY7ArurM46",
                         "phone": {
                             "main" : "0356210645"
@@ -259,7 +259,7 @@
                         "id": 4,
                         "name": "PJ Palms Sports Centre",
                         "web": " www.pjpalms.com",
-                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "images" : [""],
                         "location" : "https://maps.app.goo.gl/bfqu4VDrMTSzLzxh9",
                         "phone": {
                             "main": "0379607919",
@@ -287,7 +287,7 @@
                         "id": 1,
                         "name": "Marina Putrajaya",
                         "web": "https://marinaputrajaya.com",
-                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "images" : [""],
                         "location" : "https://maps.app.goo.gl/wuvDkqSFWaxTnkRX9",
                         "phone": {
                             "main": "0388810648"
@@ -312,7 +312,7 @@
                         "id": 2,
                         "name": "Kompleks Kejiranan Presint 11",
                         "web": "http://www.ppj.gov.my/",
-                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "images" : [""],
                         "location" : "https://maps.app.goo.gl/wuvDkqSFWaxTnkRX9",
                         "phone": {
                             "main": "0388877668"
@@ -339,7 +339,7 @@
                         "id": "1",
                         "name": "Nicol David International Squash Centre",
                         "web": "",
-                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "images" : [""],
                         "phone": {
                             "main": "046574422"
                         },
@@ -369,7 +369,7 @@
                         "id": 2,
                         "name": "The Lakeview Club",
                         "web": "",
-                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "images" : [""],
                         "location" : "https://maps.app.goo.gl/7pCgeoe9ZhL5ZDNk8",
                         "phone": {
                             "main" : "0356339101"
