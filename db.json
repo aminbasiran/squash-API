@@ -1,5 +1,5 @@
 {
-    "squash" : {
+    "courts" : {
 
         "courts" : [
             
@@ -8,12 +8,16 @@
                 "region" : "Kuala Lumpur",
                 "venue" : [
                     {
-                        "id": "1",
+                        "id": 1,
                         "name": "National Squash Centre",
-                        "web": null,
-                        "images" : ["http://www.natsquash.co.nz/Images/Albums/1/Large/20160501_094452_resized.jpg"],
+                        "web": "",
+                        "location" : "https://maps.app.goo.gl/3CByfPch2fwNzPp16",
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
                         "phone": {
                             "main" :  "0389969560"
+                        },
+                        "rates": {
+                            "normal": ""
                         },
                         "address": {
                             "number": "Level 1",
@@ -25,30 +29,36 @@
                         }
                     },
                     {
-                        "id": "2",
+                        "id": 2,
                         "name": "Duta Squash Court, National Sports Complex",
                         "web": "http://www.stadium.gov.my/",
-                        "images" : ["https://i.ytimg.com/vi/N7G_y9xNgvI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDhNHzTK8oE0mqikQFk7zGOydHwZw"],
+                        "location" : "https://maps.app.goo.gl/yVCMPPvua1X6Chw59",
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
                         "phone": {
                             "main" : "0362065022"
                         },
-                        "rating": 4.4,
+                        "rates": {
+                            "normal": "15"
+                        },
                         "address": {
                             "number": "",
                             "line1": "Bukit Tunku",
                             "line2": "",
-                            "postcode": "80",
-                            "district": "",
-                            "state": "Kuala Lumpur"
+                            "postcode": "50480",
+                            "district": "Kuala Lumpur",
+                            "state": "Wilayah Persekutuan Kuala Lumpur"
                         }
                     },
                     {
-                        "id": "3",
+                        "id": 3,
                         "name": "Kompleks Sukan Wangsa Maju Seksyen 5",
-                        "web": null,
-                        "images" : ["https://lh3.googleusercontent.com/p/AF1QipPtKeAcMfytjZTNYY1ZDfvbXuIxmSBMMqfTrCHi=s1600-w2436"],
+                        "web": "",
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "location" : "https://maps.app.goo.gl/3RarHHVc8p95qmuq60",
                         "phone": {
                             "main" : "0178836678"
+                        },"rates": {
+                            "normal": ""
                         },
                         "address": {
                             "number": "",
@@ -60,15 +70,16 @@
                         }
                     },
                     {
-                        "id": "4",
+                        "id": 4,
                         "name": "Kompleks Sukan Taman Tasik Titiwangsa",
-                        "web": null,
+                        "web": "",
                         "images" : [],
+                        "location" : "https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ",
                         "phone": {
                             "main" : "0340252063"
-                        } 
-                        ,
-                        "rating": null,
+                        },"rates": {
+                            "normal": ""
+                        },
                         "address": {
                             "number": "",
                             "line1": "Kompleks Sukan Taman Tasik Titiwangsa",
@@ -79,14 +90,17 @@
                         }
                     },
                     {
-                        "id": "5",
+                        "id": 5,
                         "name": "Kompleks Sukan Bangsar",
-                        "web": null,
-                        "images" : ["https://ejkt.kpkt.gov.my/eprofil/storage/toilet/nDUp2FTANDASAWAMKOMPLEKSSUKANBANGSAR.jpg"],
+                        "web": "",
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "location": "https://maps.app.goo.gl/aFuPJ2NpiSJrZiYw5",
                         "phone": {
                             "main" : "0322841150"
-                        } ,
-                        "rating": null,
+                        },
+                        "rates": {
+                            "normal": ""
+                        },
                         "address": {
                             "number": "",
                             "line1": "Jalan Terasik 3",
@@ -97,14 +111,17 @@
                         }
                     },
                     {
-                        "id": "6",
+                        "id": 6,
                         "name": "University of Malaya Sports Centre",
-                        "web": "sports.um.edu.my",
-                        "images" : ["https://thehivmap.com/wp-content/uploads/2021/08/PPUM-Petaling-Jaya-Covid-19-FMT-5.jpg"],
+                        "web": "https://sports.um.edu.my",
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "location" : "https://maps.app.goo.gl/zMR3ZpazKPHPReie6",
                         "phone": {
                             "main": "0379673210"
                         },
-                        "rating": 4.4,
+                        "rates": {
+                            "normal": ""
+                        },
                         "address": {
                             "number": "",
                             "line1": "University Malaya",
@@ -115,19 +132,19 @@
                         }
                     },
                     {
-                        "id": "7",
+                        "id": 7,
                         "name": "Royal Lake Club",
                         "web": "https://royallakeclub.org.my",
-                        "images" : [],
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "location": "https://maps.app.goo.gl/Pqhm7pcny7JTDqZ18",
                         "phone": {
                             "main": "0326987878"
                         },
-                        "rating": 4.2,
                         "social": {
                             "facebook": "royallakeclub"
                         },
                         "rates": {
-                            "normal": null
+                            "normal": ""
                         },
                         "address": {
                             "number": "",
@@ -139,20 +156,20 @@
                         }
                     },
                     {
-                        "id": "8",
+                        "id": 8,
                         "name": "Bukit Kiara Equestrian & Country Resort",
                         "web": "www.berjayaclubs.com",
-                        "images" : ["https://i.ytimg.com/vi/Y3DBSakmZKY/maxresdefault.jpg"],
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "location" : "https://maps.app.goo.gl/Lzgi52YEt45nyEsp6",
                         "phone": {
                             "main": "0320931222",
                             "other": "0320941222"
                         },
-                        "rating": 4,
                         "social": {
                             "facebook": "royallakeclub"
                         },
                         "rates": {
-                            "normal": null
+                            "normal": ""
                         },
                         "address": {
                             "number": "",
@@ -171,40 +188,43 @@
                 "region" : "Selangor",
                 "venue": [
                 
-                        {
-                            "id": "1",
-                            "name": "Bukit Bintang Squash Excellence Center",
-                            "web": "https://link.courtsite.my/BukitBintangSquashEC",
-                            "images" : [],
-                            "phone": {
-                                "main" : "60196642107" 
-                            },
-                            "rating": 4,
-                            "social": {
-                                "facebook": "supremesquashclub"
-                            },
-                            "rates": {
-                                "glass": 12,
-                                "normal": 10
-                            },
-                            "address": {
-                                "number": "",
-                                "line1": "Bangunan CBMPTB, SMK (L) Bukit Bintang",
-                                "line2": "Jln Utara, Pjs 52",
-                                "postcode": "46200",
-                                "district": "Petaling Jaya",
-                                "state": "Selangor"
-                            }
+                    {
+                        "id": 1,
+                        "name": "Bukit Bintang Squash Excellence Center",
+                        "web": "https://link.courtsite.my/BukitBintangSquashEC",
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "location" : "https://maps.app.goo.gl/dxEG9YfEMsoJKbtXA",
+                        "phone": {
+                            "main" : "60196642107" 
                         },
-                        {
-                        "id": "2",
+                        "social": {
+                            "facebook": "supremesquashclub"
+                        },
+                        "rates": {
+                            "glass": 12,
+                            "normal": 10
+                        },
+                        "address": {
+                            "number": "",
+                            "line1": "Bangunan CBMPTB, SMK (L) Bukit Bintang",
+                            "line2": "Jln Utara, Pjs 52",
+                            "postcode": "46200",
+                            "district": "Petaling Jaya",
+                            "state": "Selangor"
+                        }
+                    },
+                    {
+                        "id": 2,
                         "name": "The Lakeview Club",
-                        "web": null,
-                        "images" : [],
+                        "web": "",
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "location" : "https://maps.app.goo.gl/7pCgeoe9ZhL5ZDNk8",
                         "phone": {
                             "main" : "0356339101"
                         },
-                        "rating": 3.8,
+                        "rates": {
+                            "normal": "15"
+                        },
                         "address": {
                             "number": "3606",
                             "line1": "Jalan SS 12/1",
@@ -215,14 +235,17 @@
                         }
                     },
                     {
-                        "id": "3",
+                        "id": 3,
                         "name": "Kompleks 3K Subang Jaya",
-                        "web": null,
-                        "images" : ["https://3.bp.blogspot.com/_aXsW-aSwFWU/SNCLgJfgzEI/AAAAAAAAAAs/KKVzVBfzjog/w1200-h630-p-k-no-nu/DSC02395.JPG"],
+                        "web": "",
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "location" : "https://maps.app.goo.gl/fyLUmFJyY7ArurM46",
                         "phone": {
                             "main" : "0356210645"
                         },
-                        "rating": 4,
+                        "rates": {
+                            "normal": ""
+                        },
                         "address": {
                             "number": "",
                             "line1": "Jalan SS 13/1a",
@@ -233,15 +256,18 @@
                         }
                     },
                     {
-                        "id": "4",
+                        "id": 4,
                         "name": "PJ Palms Sports Centre",
                         "web": " www.pjpalms.com",
-                        "images" : ["https://pjpalms.com/images/squash.jpg"],
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "location" : "https://maps.app.goo.gl/bfqu4VDrMTSzLzxh9",
                         "phone": {
                             "main": "0379607919",
                             "other": "0124253600"
                         },
-                        "rating": 4.4,
+                        "rates": {
+                            "normal": ""
+                        },
                         "address": {
                             "number": "",
                             "line1": "No 1 Lorong Sultan",
@@ -258,20 +284,20 @@
                 "region" : "Putrajaya",
                 "venue": [
                     {
-                        "id": "1",
+                        "id": 1,
                         "name": "Marina Putrajaya",
                         "web": "https://marinaputrajaya.com",
-                        "images" : [],
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "location" : "https://maps.app.goo.gl/wuvDkqSFWaxTnkRX9",
                         "phone": {
                             "main": "0388810648"
                         },
-                        "rating": 4.2,
                         "social": {
                             "instagram": "marinaputrajaya.mpsb",
                             "facebook": "marinaputrajaya.mpsb"
                         },
                         "rates": {
-                            "normal": 15
+                            "normal": ""
                         },
                         "address": {
                             "number": "",
@@ -280,6 +306,84 @@
                             "postcode": "62200",
                             "district": "Putrajaya",
                             "state": "Putrajaya"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "Kompleks Kejiranan Presint 11",
+                        "web": "http://www.ppj.gov.my/",
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "location" : "https://maps.app.goo.gl/wuvDkqSFWaxTnkRX9",
+                        "phone": {
+                            "main": "0388877668"
+                        },
+                        "rates": {
+                            "normal": ""
+                        },
+                        "address": {
+                            "number": "",
+                            "line1": "Jalan P11",
+                            "line2": "Presint 11",
+                            "postcode": "62300",
+                            "district": "Putrajaya",
+                            "state": "Wilayah Persekutuan Putrajaya"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "region" : "Pulau Pinang",
+                "venue": [
+                    {
+                        "id": "1",
+                        "name": "Nicol David International Squash Centre",
+                        "web": "",
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "phone": {
+                            "main": "046574422"
+                        },
+                        "rates": {
+                            "normal": 10
+                        },
+                        "address": {
+                            "number": "101",
+                            "line1": "Bukit Dumbar",
+                            "line2": "",
+                            "postcode": "11700 ",
+                            "district": "Gelugor",
+                            "state": "Pulang Pinang"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "stores" : {
+        "stores" : [
+            {
+                "id": 1,
+                "region" : "Selangor",
+                "venue" : [
+                    {
+                        "id": 2,
+                        "name": "The Lakeview Club",
+                        "web": "",
+                        "images" : ["https://unsplash.com/photos/man-in-black-t-shirt-and-black-shorts-running-on-road-during-daytime-J154nEkpzlQ"],
+                        "location" : "https://maps.app.goo.gl/7pCgeoe9ZhL5ZDNk8",
+                        "phone": {
+                            "main" : "0356339101"
+                        },
+                        "rates": {
+                            "normal": "15"
+                        },
+                        "address": {
+                            "number": "3606",
+                            "line1": "Jalan SS 12/1",
+                            "line2": "Ss 12",
+                            "postcode": "47500",
+                            "district": "Subang Jaya",
+                            "state": "Selangor"
                         }
                     }
                 ]
