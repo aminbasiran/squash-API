@@ -54,7 +54,7 @@
                         "name": "Kompleks Sukan Wangsa Maju Seksyen 5",
                         "web": "",
                         "images" : [""],
-                        "location" : "",
+                        "location" : "https://maps.app.goo.gl/7sSaePM4AKo6K6js9",
                         "phone": {
                             "main" : "0178836678"
                         },"rates": {
@@ -73,8 +73,8 @@
                         "id": 4,
                         "name": "Kompleks Sukan Taman Tasik Titiwangsa",
                         "web": "",
-                        "images" : [],
-                        "location" : "",
+                        "images" : [""],
+                        "location" : "https://maps.app.goo.gl/KAYBX82WMY5qeYqL9",
                         "phone": {
                             "main" : "0340252063"
                         },"rates": {
@@ -94,7 +94,7 @@
                         "name": "Kompleks Sukan Bangsar",
                         "web": "",
                         "images" : [""],
-                        "location": "",
+                        "location": "https://maps.app.goo.gl/7pWV17T7jg2ctDKZ8",
                         "phone": {
                             "main" : "0322841150"
                         },
@@ -339,6 +339,7 @@
                         "id": "1",
                         "name": "Nicol David International Squash Centre",
                         "web": "",
+                        "location" : "https://maps.app.goo.gl/jVevqw2o5qet3ZQ27",
                         "images" : [""],
                         "phone": {
                             "main": "046574422"
@@ -366,7 +367,7 @@
                 "region" : "Selangor",
                 "venue" : [
                     {
-                        "id": 2,
+                        "id": 1,
                         "name": "The Lakeview Club",
                         "web": "",
                         "images" : [""],
